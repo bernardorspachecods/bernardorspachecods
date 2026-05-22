@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <h1>Bernardo Pacheco</h1>
+</div>
 
-<!--
-**bernardorspachecods/bernardorspachecods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor in Economics, Masters in Data Science
+- I’m currently learning **Data Science in NovaIMS, Lisbon**
+- How to reach me: **bernardorspacheco@gmail.com**
+
+### Working on
+-  **App to help Alzheimer patients and their caregivers**
+-  Fully **customizable statistics app** mainly for Water Polo but suitable to other sports.
+-  A new **way of studying using LLM**
+
+<br />
