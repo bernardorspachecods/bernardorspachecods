@@ -14,7 +14,7 @@
 -  A new **way of studying using LLM**
 
 ### Public apps 
-- **Prompt Wiz** - an easier, faster and better way to write complex prompts for codex cli
+- **Prompt Wiz** - an easier and faster way to write complex prompts for Codex CLI
 
 ### Private apps
 - **Waterpolo Statistics** - currently in use by **FPN** (Federação Portuguesa de Natação) - a fully customizable statistics app
