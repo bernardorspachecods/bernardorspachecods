@@ -15,6 +15,6 @@
 -  A new **way of studying using LLM**
 
 ### Public apps 
-- **Prompt Wiz** - a new way to write prompts while using the terminal with codex
+- **Prompt Wiz** - an easier, faster and better way to write complex prompts for codex cli
 
 <br />
