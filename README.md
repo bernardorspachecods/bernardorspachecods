@@ -2,12 +2,11 @@
   <h1>Bernardo Pacheco</h1>
 </div>
 
-<br />
-
 ### About Me
 
-- Bachelor in Economics, Masters in Data Science
-- I’m currently learning **Data Science in NovaIMS, Lisbon**
+- Bachelor's Degree in Economics in ISCTE - University Institute of Lisbon
+- Master’s Degree in Data Science and Advanced Analytical Methods in NovaIMS, Lisbon
+- Currently learning **Data Science in NovaIMS, Lisbon**
 - How to reach me: **bernardorspacheco@gmail.com**
 
 ### Working on
