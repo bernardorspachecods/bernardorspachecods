@@ -14,7 +14,7 @@
 -  Fully **customizable statistics app** mainly for Water Polo but suitable to other sports.
 -  A new **way of studying using LLM**
 
-### Public apps developed
-- Prompt Wiz - a new way to write prompts while using the terminal with codex
+### Public apps 
+- **Prompt Wiz** - a new way to write prompts while using the terminal with codex
 
 <br />
