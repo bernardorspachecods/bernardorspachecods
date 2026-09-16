@@ -11,10 +11,13 @@
 
 ### Working on
 -  **App to help Alzheimer patients and their caregivers**
--  Fully **customizable statistics app** mainly for Water Polo but suitable to other sports.
 -  A new **way of studying using LLM**
 
 ### Public apps 
 - **Prompt Wiz** - an easier, faster and better way to write complex prompts for codex cli
+
+### Private apps
+- **Waterpolo Statistics** - currently in use by **FPN** (Federação Portuguesa de Natação) - a fully customizable statistics app
+- **SARP** - currently in use by **DESMOR** (Rio Maior Sports Centre) - informatization of employees evaluation   
 
 <br />
