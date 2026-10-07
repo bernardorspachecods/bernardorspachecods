@@ -15,6 +15,7 @@
 
 ### Public apps 
 - **Prompt Wiz** - an easier and faster way to write complex prompts for Codex CLI
+- **Viewer** - a distraction-free macOS workspace for viewing and editing project files across workspaces and files.
 
 ### Private apps
 - **Waterpolo Statistics** - currently in use by **FPN** (Federação Portuguesa de Natação) - a fully customizable statistics app
