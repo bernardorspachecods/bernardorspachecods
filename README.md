@@ -14,7 +14,6 @@
 -  A new **way of studying using LLM**
 
 ### Public apps 
-- **Prompt Wiz** - an easier and faster way to write complex prompts for Codex CLI
 - **Viewer** - a distraction-free macOS workspace for viewing and editing project files across workspaces and files.
 
 ### Private apps
